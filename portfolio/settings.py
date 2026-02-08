@@ -27,7 +27,10 @@ DEBUG = False
 
 ROOT_URLCONF = 'portfolio.urls'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['portfolio-9h4h.onrender.com',
+    'localhost',
+    '127.0.0.1'
+]
 
 
 # Application definition
