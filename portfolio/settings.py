@@ -154,5 +154,5 @@ LOGIN_REDIRECT_URL = '/dashboard/'      # ← ALL logins → dashboard
 LOGOUT_REDIRECT_URL = '/'        
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-    
+      # ← Logout → home
 
