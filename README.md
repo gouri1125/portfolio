@@ -4,18 +4,6 @@ This is a personal portfolio website developed using Django to showcase my proje
 
 The project is deployed on Render using Gunicorn and Whitenoise, with environment-based configuration for security and scalability. This portfolio is designed to be recruiter-friendly and production-ready.
 
-Tech Stack:
-
-Python
-
-Django
-
-HTML, CSS, Bootstrap
-
-PostgreSQL
-
-Gunicorn, Whitenoise
-
-Git & GitHub
-
-Render (Deployment)
+*Tech Stack:
+Python, Django, HTML, CSS, Bootstrap, PostgreSQL, Gunicorn, Whitenoise, Git & GitHub, Render (Deployment)
+CHECK OUT HERE: https://portfolio-9h4h.onrender.com
